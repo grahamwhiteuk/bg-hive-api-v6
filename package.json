@@ -1,0 +1,33 @@
+{
+  "name": "bg-hive-api-v6",
+  "version": "0.1.0",
+  "description": "Library to exercise the British Gas Hive version 6 API",
+  "license": "MIT",
+  "author": "Graham White",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hive",
+    "british gas",
+    "alertme",
+    "alertme hub",
+    "active heating",
+    "active plug",
+    "active sensors",
+    "smart home",
+    "home automation"
+  ],
+  "homepage": "https://github.com/grahamwhiteuk/bg-hive-api-v6",
+  "bugs": {
+    "url" : "https://github.com/grahamwhiteuk/bg-hive-api-v6/issues"
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/grahamwhiteuk/bg-hive-api-v6.git"
+  },
+  "dependencies": {
+    "request": "2.81.0"
+  }
+}
