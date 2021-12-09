@@ -1,5 +1,5 @@
 # bg-hive-api-v6 - British Gas Hive API version 6
-**An INCOMPLETE Library** to exercise the British Gas Hive version 6 API Based on the work of James Saunders on [his blog](http://www.smartofthehome.com/2016/05/hive-rest-api-v6/).  The reason for being incomplete is this is work-in-progress and so future updates will add further support.  Current methods are read-only and sufficient to get many of the settings on a Hive system.
+**An INCOMPLETE Library** to exercise the British Gas Hive version 6 API Based on the work of James Saunders on [his blog](https://datapoint.uk/2016/05/hive-rest-api-v6/).  The reason for being incomplete is this is work-in-progress and so future updates will add further support.  Current methods are read-only and sufficient to get many of the settings on a Hive system.
 
 ## Installation
 This work is not yet published as an npm module so for now you can clone the git repository:
